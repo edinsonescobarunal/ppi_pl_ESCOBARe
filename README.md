@@ -9,13 +9,15 @@
 
 ## Descripción del proyecto
 
-<p> Una aplicación de gestión de alquileres que ayuda a propietarios e inquilinos a administrar contratos, pagos, mantenimiento y comunicaciones de manera eficiente. </p>
+<p> Rentify es una aplicación de gestión de alquileres que ayuda a propietarios e inquilinos a administrar contratos, pagos, mantenimiento y comunicaciones de manera eficiente. </p>
 
 ***
 
 ## Justificación del proyecto
 
-<p> El mercado de alquileres es amplio y diverso, con una creciente demanda de herramientas que simplifiquen y optimicen la gestión de propiedades.</p>
+<p> El mercado de alquileres es amplio y diverso, con una creciente demanda de herramientas que simplifiquen y optimicen la gestión de propiedades.
+    Es hay cuando nace Rentify, una solución para la gestión inmobiliaria.
+</p>
 
 ***
 
