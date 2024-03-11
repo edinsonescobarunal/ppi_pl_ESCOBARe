@@ -1,4 +1,4 @@
-# <center>Rentify</center>
+# <h1 align="center">Rentify</h1>
 
 ### <center>*Autor:* *Edinson Escobar*</center>
 ### <center>*Profesión:* *Ingeniería De Sistemas E Informática*</center>
