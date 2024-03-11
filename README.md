@@ -23,9 +23,9 @@
 
 ## Stack Tecnológico
 
-- Python: Lenguaje de programación.
-- NumPy: Para cálculos financieros y estadísticos relacionados con los alquileres.
-- Pandas: Para la gestión de datos de contratos, pagos y mantenimiento.
-- Matplotlib: Para la visualización de datos financieros y tendencias de alquiler.
-- Scipy: Para análisis estadísticos y modelado predictivo sobre comportamientos de alquiler.
-- Geopandas: Para visualizar la ubicación de propiedades y realizar análisis espaciales.
+- **Python:** Lenguaje de programación.
+- **NumPy:** Para cálculos financieros y estadísticos relacionados con los alquileres.
+- **Pandas:** Para la gestión de datos de contratos, pagos y mantenimiento.
+- **Matplotlib:** Para la visualización de datos financieros y tendencias de alquiler.
+- **Scipy:** Para análisis estadísticos y modelado predictivo sobre comportamientos de alquiler.
+- **Geopandas:** Para visualizar la ubicación de propiedades y realizar análisis espaciales.
