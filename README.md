@@ -6,7 +6,6 @@
 ### <p align="center">*Institución:* `Universidad Nacional De Colombia`</p>   
 
 ***
-<br/>
 
 <div align="center">
   <h1 align="center">Rentify</h1>
